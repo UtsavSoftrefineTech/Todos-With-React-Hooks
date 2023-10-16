@@ -10,6 +10,7 @@ Manage Your Todos with Ease - A Real-time Todo React App
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Local Storage](#local-storage)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
@@ -54,6 +55,10 @@ We've added local storage functionality to ensure your data is always accessible
 
 - Your tasks are automatically saved in your browser's local storage.
 - Even if you close the application or refresh the page, your tasks will be there when you return.
+
+## Demo
+
+Check out the live demo of the application: [Todo App Demo](https://todos-with-react-hooks.netlify.app/)
 
 ## Contributing
 
